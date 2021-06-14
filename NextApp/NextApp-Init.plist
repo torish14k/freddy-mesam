@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blog_root</key>
+	<string>http://blog.makingware.com</string>
+	<key>blog_title</key>
+	<string>麦金电商</string>
+	<key>blog_querystring</key>
+	<string>http://blog.makingware.com/?nextapp=index</string>
+	<key>about_description</key>
+	<string>      雷锋网是一个好网</string>
+	<key>postlistLayout</key>
+	<string>1</string>
+</dict>
+</plist>
